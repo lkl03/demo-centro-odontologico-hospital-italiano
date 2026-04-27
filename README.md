@@ -1,2 +1,7 @@
-# demo-centro-odontologico-hospital-italiano
-Demo web para CENTRO ODONTOLÓGICO HOSPITAL ITALIANO — diseñada por eterlab.
+# CENTRO ODONTOLÓGICO HOSPITAL ITALIANO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
